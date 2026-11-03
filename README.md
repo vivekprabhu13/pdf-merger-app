@@ -12,4 +12,4 @@ Live Link : https://pdf-merger-viper.netlify.app/
 All processing is client-side. Encrypted or unreadable PDFs are flagged and skipped.
 
 ## Roadmap
-AI features (for example summarizing merged documents) and Cloud Run deployment are ideas, not implemented.
+AI features (for example summarizing merged documents) can be implemented.
