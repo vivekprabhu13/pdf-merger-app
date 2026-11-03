@@ -1,0 +1,6 @@
+{
+  "name": "PDF Merger",
+  "description": "A simple and responsive web application to merge multiple PDF files in your browser with order customization and instant download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
